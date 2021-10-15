@@ -1,0 +1,4 @@
+com\Librarybooks\books.class
+com\Librarybooks\LibraryBooksApplication.class
+com\Librarybooks\BookController.class
+com\Librarybooks\BooksRepository.class
